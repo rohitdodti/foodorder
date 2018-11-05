@@ -1,0 +1,70 @@
+.verticalalign {
+	margin-left:400px;
+	margin-top:-531px;
+}
+.dir_task_status {
+	margin-left:291px;
+	margin-top:669px;
+}
+
+.chrome .dir_task_status {
+	margin-left:2px;
+	margin-top:2px;
+}
+.headcolor1 {
+	background-color: #289DCC;
+}
+#homebtn {
+	float: right;
+	margin-top: -5px;
+}
+td {
+color: rgb(218, 232, 127);
+font-family: cursive;
+}
+:focus {
+outline: -webkit-focus-ring-color auto 5px;
+}
+select#showempid {
+background-color: moccasin;
+color: darkred;
+}
+input[type="text"] {
+background-color: moccasin;
+font-family: cursive;
+padding-right: 43px;
+}
+input[type="submit"] {
+background-color: moccasin;
+}
+textarea {
+background-color: inherit;
+color: moccasin;
+font-family: cursive;
+}
+body {
+color: navajowhite;
+}
+body {
+font-family: cursive;
+}
+table {
+border-color: rgb(192, 126, 68);
+}
+input[type="date"] {
+background-color: moccasin;
+font-family: cursive;
+color: rgb(117, 68, 25);
+}
+input[type="password"] {
+background-color: moccasin;
+padding-right: 43px;
+}
+select#year {
+  background-color: moccasin;
+  color: darkred;
+  }
+select#month {
+ background-color: moccasin;
+  color: darkred;
+}
